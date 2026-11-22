@@ -133,4 +133,4 @@ Motion data is processed strictly in-memory on your Mac. No network calls, no an
 
 [MIT License](LICENSE) © 2026 **Shreesha Anand Pujar**. All rights reserved.
 
-<sub>AirPods, AirPods Pro, AirPods Max, Beats, and macOS are trademarks of Apple Inc., registered in the U.S. and other countries. AeroPoint is an independent project by Shreesha Anand Pujar and is not affiliated with, sponsored by, or endorsed by Apple Inc.</sub>
+<sub>AirPods, AirPods Pro, AirPods Max, Beats, and macOS are trademarks of Apple Inc., registered in the U.S. and other countries. AeroPoint is an independent project and is not affiliated with, sponsored by, or endorsed by Apple Inc.</sub>
