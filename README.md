@@ -88,10 +88,8 @@ Switch from In-Ear Head Tracking to **In-Hand Air Mouse Wand** with a single cli
 - **Software Isolation**: Head nods, shakes, and typing pause guards are automatically suppressed in hand mode so wrist waving never triggers accidental clicks.
 - **Inaudible Audio Keep-Alive**: Automatically keeps the Apple CoreMotion stream active even when the AirPod is outside your ear.
 
-### 3. 🟢 Cyber Emerald Green UI Theme
-Modern high-tech Emerald Green aesthetic across Mission Control Dashboard, macOS Menu Bar dropdown, Guided Tour 3D stage, and HUD feedback overlays.
 
-### 4. 🎯 Precision Sniper Mode (`⌃⌥P`)
+### 3. 🎯 Precision Sniper Mode (`⌃⌥P`)
 Instantly drops cursor speed to 35% (customizable 10%–70%) for pixel-accurate work in CAD, Figma, video editing, or tiny web controls.
 
 ### 5. ⌨️ Intelligent Keyboard Guard (Typing Auto-Pause)
